@@ -3,7 +3,7 @@
 ## Game Overview  
   
 "Miraculous lands" is a Roguelike RPG that merges deep strategy with endless randomness. Embark on an epic journey into the miraculous lands, uncover ancient secrets, confront formidable foes, and grow stronger with each death and rebirth as you strive towards the elusive eternal light.  
-This game is to gather the small ideas Deloray's ideas of every day
+This game is to gather the Deloray's ideas of every day
   
 ## Core Features  
   
@@ -29,7 +29,7 @@ This game is to gather the small ideas Deloray's ideas of every day
   
 ## Gameplay Screenshots  
   
-(Note: Markdown doesn't directly support image insertion. You can upload your screenshots to an image hosting service, like Imgur or GitHub, and reference them here using Markdown image syntax: `![Alt Text](URL)`)  
+
   
 ## Development Team  
   
