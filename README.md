@@ -33,8 +33,8 @@ This game is to gather the Deloray's ideas of every day
   
 ## Development Team  
   
-"Abyss Voyager: Eternal Cycle" is crafted by a dedicated team of Roguelike enthusiasts. We strive to deliver a challenging yet enjoyable Roguelike RPG experience that lets every player forge their own adventure story.  
+"Miraculous lands" is crafted by me and Deloray of Roguelike enthusiasts. We strive to deliver a challenging yet enjoyable Roguelike RPG experience that lets every player forge their own adventure story.  
   
 ## Conclusion  
   
-If you yearn for an adventure filled with uncertainty and challenge, "Abyss Voyager: Eternal Cycle" is the perfect choice. Join us now and delve into the abyss, challenging yourself to conquer its depths and uncover its mysteries!
+If you yearn for an adventure filled with uncertainty and challenge, "Miraculous lands" is the perfect choice. Join us now and delve into the abyss, challenging yourself to conquer its depths and uncover its mysteries!
